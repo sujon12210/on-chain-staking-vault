@@ -1,0 +1,8 @@
+{
+  "name": "erc4626-staking-vault",
+  "version": "1.0.0",
+  "description": "ERC-4626 tokenized vault for staking",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
